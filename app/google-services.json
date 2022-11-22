@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546173358275",
+    "project_id": "bai-kt2",
+    "storage_bucket": "bai-kt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546173358275:android:b61bd91946454c58505276",
+        "android_client_info": {
+          "package_name": "com.test.bai_kt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546173358275-m55opmjjqlfibgh2sgrn6l39b194p09k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCajq0FKwLi26CszOH7QZnf1jnMFtcLPUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546173358275-m55opmjjqlfibgh2sgrn6l39b194p09k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
